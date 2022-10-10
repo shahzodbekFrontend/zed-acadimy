@@ -348,6 +348,7 @@ iframe {
     width: 200px;
     height: 200px;
     margin-bottom: 20px;
+    margin-left: 20px;
 }
 .coment {
     width: 280px;
@@ -396,7 +397,8 @@ iframe {
     width: 250px;
     padding: 10px;
     border-radius: 16px;
-    left: 5%;
+    left: 15%;
+
 }
 .top {
     margin-bottom: 20px;
